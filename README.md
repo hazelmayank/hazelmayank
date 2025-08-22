@@ -9,12 +9,13 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [**Dino-Game**](https://github.com/hazelmayank/Dino-Game) | A browser-based fun game. | HTML, CSS, JavaScript |
+| [**Klimate-Weatherly**](https://github.com/hazelmayank/klimate-weatherly) | Sleek weather app with modern UI. | React + Vite + TypeScript, Shadcn UI, TanStack Query |
+| [**Resume-Builder-App**](https://github.com/hazelmayank/Resume-Builder-App) | Resume builder with templates. | React Native, Expo, TypeScript |
 | [**Gamified-Mental-Tracker**](https://github.com/hazelmayank/gamified-mental-tracker) | A gamified mental health tracker app. | React+Vite,Express.js, Node.js |
 | [**Basic-Payments-App**](https://github.com/hazelmayank/basic-payments-app) | Simple payments interface. | JavaScript, Express |
-| [**Resume-Builder-App**](https://github.com/hazelmayank/Resume-Builder-App) | Resume builder with templates. | React Native, Expo, TypeScript |
 | [**doc-finder-maps**](https://github.com/hazelmayank/doc-finder-maps) | Map-based document finder. | JavaScript, Leaflet.js |
-| [**Klimate-Weatherly**](https://github.com/hazelmayank/klimate-weatherly) | Sleek weather app with modern UI. | React + Vite + TypeScript, Shadcn UI, TanStack Query |
+| [**Dino-Game**](https://github.com/hazelmayank/Dino-Game) | A browser-based fun game. | HTML, CSS, JavaScript |
+
 
 ---
 
