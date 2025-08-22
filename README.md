@@ -53,8 +53,8 @@
 
 <p align="center">
   <a href="https://github.com/hazelmayank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://twitter.com/your_twitter_handle"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="https://surl.lt/scyvnx"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  
 </p>
 
 ---
